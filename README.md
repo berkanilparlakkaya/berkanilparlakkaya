@@ -11,7 +11,7 @@ I focus on leveraging my analytical thinking skills in mathematics to work on da
 ## My Skills
 - **Python**: Basic proficiency in Python programming.
 - **SQL**: Database querying and basic management skills.
-- **Power BI: Intermediate Power BI skills.
+- **Power BI**: Intermediate Power BI skills.
 - **Data Analytics**: Analytical thinking and data interpretation.
 - **Pandas**: Basic pandas library management skils.
 - **Google Analytics**: Basic knowledge of google analytics.
