@@ -12,6 +12,9 @@ I focus on leveraging my analytical thinking skills in mathematics to work on da
 - **Python**: Basic proficiency in Python programming.
 - **SQL**: Database querying and basic management skills.
 - **Data Analytics**: Analytical thinking and data interpretation.
+- **Pandas**: Basic pandas library management skils.
+- **Google Analytics**: Basic knowledge of google analytics.
+- **English**: Intermediate writing, speaking and talking skills in English.
 
 ## My Projects
 - [Proje Adı 1](https://github.com/username/proje-adi-1) – Kısa açıklama.
