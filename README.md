@@ -18,9 +18,7 @@ I focus on leveraging my analytical thinking skills in mathematics to work on da
 - **English**: Intermediate writing, speaking and talking skills in English.
 
 ## My Projects
-- [Proje Adı 1](https://github.com/username/proje-adi-1) – Kısa açıklama.
-- [Proje Adı 2](https://github.com/username/proje-adi-2) – Kısa açıklama.
-- [Proje Adı 3](https://github.com/username/proje-adi-3) – Kısa açıklama.
+- [Mathematics_Game](https://github.com/berkanilparlakkaya/Mathematics_Game) –
 
 ## My Certificates
 - Google Data Analytics Professional Certificate
